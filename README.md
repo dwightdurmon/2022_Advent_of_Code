@@ -1,3 +1,3 @@
-# 2022_Advent_of_Code
+# Advent of Code Challenges
 
-[2022 Advent of Code Challenges](https://adventofcode.com/2022)
+[Advent of Code Site](https://adventofcode.com/)
